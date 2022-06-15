@@ -1,6 +1,6 @@
-const lodash = require("lodash");
-require("./style.css");
-const Component = require("./Component");
+import lodash from 'lodash';
+import './style.css';
+import Component from './Component';
 const resultOfSummaTwoNumbers = 5+2;
 console.log(lodash.random());
 console.log(resultOfSummaTwoNumbers);

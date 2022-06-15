@@ -4,5 +4,4 @@ class Component{
   }
 }
 
-//exports.Component = Component;
-module.exports = Component;
+export default Component;
